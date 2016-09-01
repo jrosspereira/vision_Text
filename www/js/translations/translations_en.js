@@ -1,0 +1,5 @@
+wixTranslationsEN = {
+
+	//Dashboard
+	HOME:		'Home'
+}
